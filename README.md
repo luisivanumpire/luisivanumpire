@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisivanumpire
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Machine Learning, Deep Learning
+- 🌱 I’m currently a Data Scientist, Master in Science, MBA, Electronic Engineer
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me at luisivan.umpire@gmail.com
 
 <!---
